@@ -28,7 +28,7 @@ Homestead.json
 /public/storage
 /storage/*.key
 /vendor
-.env
+/.env
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml
@@ -39,3 +39,5 @@ yarn-error.log
 /.idea
 /.vscode
 >>>>>>> add files
+/docker-compose.yml
+/package-lock.json
